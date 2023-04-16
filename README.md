@@ -19,7 +19,7 @@ Moreover, I designed a Quarterly Sales Forecasting Dashboard to get insights on 
 This project have taught me how to work independently and navigate ambiguous tasks to find suitable solutions.
 
 * In my previous project on Predicting Credit Card Customers Segmentation, I performed attrition analysis for 25K credit card users using SQL and developed customer churning analysis visualizations to identify and predict hidden patterns and trends from records using Tableau. 
-Furthermore, I deployed supervised ML models to improve retention rate with accuracy of 76.0% on test data for Support Vector Classification (SVC). 
+Furthermore, I deployed supervised ML models to improve retention rate with accuracy of 75.28% on test data for Random Forest Classifier (RFC). 
 These experiences have allowed me to develop my critical thinking and problem-solving skills, which I believe would be valuable in solving real-life problems.
 
 As an analyst I am eager to gain a deeper understanding of the data lifecycle with a range of tools and techniques, distilling down data for actionable takeaways and making recommendations across different business groups. 
