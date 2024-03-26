@@ -17,7 +17,7 @@
 ### 🌟 **Documenting my Learnings in Simplified ways**: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/analyticalnikita.io?igsh=MWM2azczZnI3eGhvbQ==) 
 
 ![Nikita Prasad's Stats](https://github-readme-stats.vercel.app/api?username=nikitaprasad21&theme=react&show_icons=true&hide_border=false&count_private=true)
-![Nikita Prasad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaprasad21&theme=react&show_icons=true&hide_border=false&layout=compact)
+![Nikita Prasad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaprasad21&theme=react&show_icons=true&hide_border=false&hide_progress=true)
 
 If my experience intrigues you and you believe I could be a valuable addition to your team, 
 
