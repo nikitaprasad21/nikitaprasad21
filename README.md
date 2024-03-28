@@ -12,12 +12,17 @@
 ![Tableau](https://img.shields.io/badge/tableau-6f1ab1?style=for-the-badge&logo=tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-### 📊 **Explore My Data Stories**: [![Tableau](https://img.shields.io/badge/tableau-6f1ab1?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nikita.prasad)
+## 📊 **Explore My Data Stories**: [![Tableau](https://img.shields.io/badge/tableau-6f1ab1?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nikita.prasad)
 
-### 🌟 **Documenting my Learnings in Simplified ways**: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/analyticalnikita.io?igsh=MWM2azczZnI3eGhvbQ==) 
+## 🌟 **Documenting my Learnings in Simplified ways**: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/analyticalnikita.io?igsh=MWM2azczZnI3eGhvbQ==) 
 
 ![Nikita Prasad's Stats](https://github-readme-stats.vercel.app/api?username=nikitaprasad21&theme=react&show_icons=true&hide_border=false&count_private=true)
 ![Nikita Prasad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaprasad21&theme=react&show_icons=true&hide_border=false&hide_progress=true)
+
+# 📑 My Latest Blog Post:
+* [Cleansing the Chaos: Top 5 SQL Queries for Data Analysts](https://nikita-prasad-analyst.notion.site/Cleansing-the-Chaos-Top-5-SQL-Queries-for-Data-Analysts-360de95d52884767b70c6fbc187a8670)
+* [The Art of Storytelling for Business Insights](https://nikita-prasad-analyst.notion.site/The-Art-of-Storytelling-for-Business-Insights-180714aa194c43cf8ba1cc3a49c9b4ba)
+
 
 If my experience intrigues you and you believe I could be a valuable addition to your team, 
 
