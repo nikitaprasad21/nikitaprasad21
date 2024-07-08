@@ -20,6 +20,9 @@
 ![Nikita Prasad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaprasad21&theme=react&show_icons=true&hide_border=false&hide_progress=true)
 
 # 📑 My Latest Blog Post: [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://nikita-prasad-analyst.medium.com/)
+* [What are the Transformers?](https://nikita-prasad-analyst.medium.com/what-are-the-transformers-2569e5cad2af)
+* [Self-Attention Networks : Beginners Friendly In-Depth Understanding](https://levelup.gitconnected.com/self-attention-networks-beginners-friendly-in-depth-understanding-0f2d605a8f23)
+* [Step-by-Step Walkthrough to A/B Testing Fundamentals](https://ai.plainenglish.io/step-by-step-walkthrough-to-a-b-testing-fundamentals-0d8ba67be113)
 * [Cleansing the Chaos: Top 5 SQL Queries for Data Analysts](https://nikita-prasad-analyst.notion.site/Cleansing-the-Chaos-Top-5-SQL-Queries-for-Data-Analysts-360de95d52884767b70c6fbc187a8670)
 * [The Art of Storytelling for Business Insights](https://nikita-prasad-analyst.notion.site/The-Art-of-Storytelling-for-Business-Insights-180714aa194c43cf8ba1cc3a49c9b4ba)
 
